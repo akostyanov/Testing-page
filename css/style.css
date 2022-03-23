@@ -1,0 +1,29 @@
+body
+{
+    background-color: rgb(78, 78, 78);
+}
+
+
+.test {
+    background-color: rgb(219, 219, 219);
+    font-family: 'Pacifico', cursive;
+    font-size: 100px;
+    width: auto;
+    padding: 10px;
+    }
+
+    .mydiv {
+    font-size: 60px;
+    font-family: 'Pacifico', cursive;
+    background-color: rgb(219, 219, 219);
+    width: fit-content;
+    padding: 10px;
+    }
+
+.mydiv2 {
+    font-size: 60px;
+    font-family: 'Pacifico', cursive;
+    background-color: rgb(207, 20, 20);
+    width:fit-content;
+
+    }
